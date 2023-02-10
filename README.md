@@ -40,8 +40,10 @@ Cuando circula una corriente por las espiras, se induce un campo magnético que 
 * Desarrollo:
 
 
-![](https://github.com/eddy90cg/lab5-fce/blob/main/im/dibujos%20de%20capactiroes%20e%20iductores.jpg)
+![image](https://user-images.githubusercontent.com/117695777/217984774-cb2fccf7-94c5-4a98-b8ca-937875f80a2f.png)
+
 
 * Mentefacto:
 
-![](https://github.com/eddy90cg/Laboratorio_7/blob/main/img/Mentefacto%20Laboratorio%207.jpg)
+![image](https://user-images.githubusercontent.com/117695777/217984821-626d5561-1382-4ed7-a4b5-25ee342cca02.png)
+
